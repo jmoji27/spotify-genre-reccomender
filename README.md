@@ -1,0 +1,1 @@
+this is currently a project im working on to use chatgpt's and spotify's api to create taylored playlists for users also using their prompts, however i have currently paused it due to the fact that i feel like i need to remaster some concepts better 
